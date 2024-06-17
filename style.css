@@ -12,14 +12,25 @@ h1 {
     margin: 0;
     padding: 20px;
 }
+h2 {
+    margin: 0;
+    padding: 10px;
+}
 ul {
     border-right: 1px solid gray;
     width: 100px;
     margin: 0;
     padding: 20px;
+    padding-right: 5px;
     line-height: 70px;
     font-size: 16px;
     font-weight: bold;
+}
+img {
+    width: 50%;
+}
+#plane {
+    width: 90%;
 }
 #grid{
     display: grid;
